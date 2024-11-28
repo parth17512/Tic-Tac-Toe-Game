@@ -7,3 +7,5 @@
 - Detects and announces winners or ties.
 - Modern design with vibrant colors and smooth gameplay.<br>
 <p>Enjoy a classic game with a polished interface! 🎮</p>
+
+![Tic-Tac-Toe-Game](Tic-Tac-Toe.png)
